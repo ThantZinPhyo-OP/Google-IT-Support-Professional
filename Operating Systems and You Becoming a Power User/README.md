@@ -5,7 +5,7 @@ Windows နှင့် Linux စနစ်၏ အဓိကအစိတ်အပ�
 
 Operating Systems and You: Becoming a Power User ပြီးဆုံးပါက -
 
-* Graphical User Interface ( GUI ) နှင့် command line interpreter ( CLI)  ကို အသုံးပြု၍ Windows နှင့် Linux ဖိုင်စနစ်များကို လမ်းညွှန်ခြင်း ။
+* Graphical User Interface ( GUI ) နှင့် Command Line Interpreter ( CLI ) ကို အသုံးပြု၍ Windows နှင့် Linux ဖိုင်စနစ်များကို လမ်းညွှန်ခြင်း ။
 * အကောင့်ဝင်ရောက်ခွင့်အတွက် အသုံးပြုသူများ၊ အုပ်စုများနှင့် ခွင့်ပြုချက်များကို သတ်မှတ်ခြင်း ။
 * Windows နှင့် Linux လည်ပတ်မှုစနစ်များတွင် ဆော့ဖ်ဝဲကို ထည့်သွင်း၊ စီစဉ်သတ်မှတ်ပြီး ဖယ်ရှားခြင်း ။
 * Windows နှင့် Linux လည်ပတ်မှုစနစ်များတွင်  Disk Partitions နှင့် Filesystems ကို Configure လုပ်ခြင်း နှင့်ပက်သက်သော အခြေခံအချက်အလက်များကို နားလည်သွားမည် ။
